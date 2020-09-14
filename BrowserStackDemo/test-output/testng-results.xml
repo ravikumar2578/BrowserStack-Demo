@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Browser Satck" duration-ms="19693" started-at="2020-09-14T17:19:47Z" finished-at="2020-09-14T17:20:07Z">
+    <groups>
+    </groups>
+    <test name="BrowserSatck" duration-ms="19693" started-at="2020-09-14T17:19:47Z" finished-at="2020-09-14T17:20:07Z">
+      <class name="com.extramarks.test.BrowserStack">
+        <test-method status="PASS" signature="OpenBrowser()[pri:0, instance:com.extramarks.test.BrowserStack@305f7627]" name="OpenBrowser" duration-ms="19349" started-at="2020-09-14T22:49:47Z" finished-at="2020-09-14T22:50:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+      </class> <!-- com.extramarks.test.BrowserStack -->
+    </test> <!-- BrowserSatck -->
+  </suite> <!-- Browser Satck -->
+</testng-results>

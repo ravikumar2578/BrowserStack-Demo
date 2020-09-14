@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BrowserSatck"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="19.349">
+    <properties></properties>
+
+
+
+            <testcase
+                name="OpenBrowser"
+                time="19.349"
+                classname="com.extramarks.test.BrowserStack">
+            </testcase>
+</testsuite>
